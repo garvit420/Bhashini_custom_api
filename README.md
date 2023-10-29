@@ -17,16 +17,10 @@ To run this API locally, follow the steps below:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/garvit420/custom-translation-api.git
+   git clone https://github.com/garvit420/Bhashini_custom_api.git
    ```
-
-2. Install the required dependencies:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Start the API using Uvicorn:
+   
+2. Start the API using Uvicorn:
 
    ```
    python -m uvicorn custom_api:app --reload
