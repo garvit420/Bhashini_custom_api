@@ -1,7 +1,6 @@
 # Bhashini_custom_api
 Translate to/from Indian regional languages with FastAPI. Efficient, multilingual communication for India. Powered by Bhashini APIs.
 
-```markdown
 # Custom Language Translation API
 
 ## Overview
@@ -91,4 +90,3 @@ For detailed API documentation, access the Swagger documentation at `http://loca
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
