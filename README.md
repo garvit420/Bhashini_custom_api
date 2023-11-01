@@ -19,8 +19,14 @@ To run this API locally, follow the steps below:
    ```
    git clone https://github.com/garvit420/Bhashini_custom_api.git
    ```
+
+2. install fastapi and uvicorn:
+
+   ```
+   pip install fastapi uvicorn
+   ```
    
-2. Start the API using Uvicorn:
+3. Start the API using Uvicorn:
 
    ```
    python -m uvicorn custom_api:app --reload
